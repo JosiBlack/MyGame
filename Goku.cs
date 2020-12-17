@@ -12,6 +12,7 @@ namespace MyGame
             pointsDeVie = 80;
             degatsMin = 10;
             degatsMax = 25;
+            powerUp = 50;
         }
     }
 }
