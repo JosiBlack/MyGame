@@ -1,0 +1,4 @@
+D:\Vs project\MyGame\obj\Debug\netcoreapp3.1\MyGame.csprojAssemblyReference.cache
+D:\Vs project\MyGame\obj\Debug\netcoreapp3.1\MyGame.AssemblyInfoInputs.cache
+D:\Vs project\MyGame\obj\Debug\netcoreapp3.1\MyGame.AssemblyInfo.cs
+D:\Vs project\MyGame\obj\Debug\netcoreapp3.1\MyGame.csproj.CoreCompileInputs.cache
